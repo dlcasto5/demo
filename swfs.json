@@ -58,6 +58,13 @@
       "type": "Game"
     },
     {
+      "location": "swf/mineblocks.swf",
+      "title": "mineblocks",
+      "author": "Devon Casto",
+      "authorLink": "https://dlcasto5.github.io",
+      "type": "Game"
+    },
+    {
       "location": "swfs/marvin_spectrum.swf",
       "title": "Marvin Spectrum",
       "author": "Bryan Singh",
